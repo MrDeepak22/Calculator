@@ -1,0 +1,64 @@
+.main{
+    width: 100%;
+    background-image: linear-gradient(to right, #02c1d3, #00d2c6, #00dfa2, #56e86b, #a8eb12);
+    height: 100px;
+    height: 592px;
+}
+h1{
+    text-align: center;
+    color: beige;
+}
+.container1{
+    text-align: center;
+}
+.screen{
+    font-size: 34px;
+    height: 34px;
+   
+}
+ .button1{
+    width: 202px;
+    height: 73px;
+    font-size: 27px;
+    background-color: hsl(206deg 100% 93%);
+    border-color: blueviolet;
+    border-radius: 20px;
+ }
+ .button2{
+    width: 100px;
+    height: 73px;
+    font-size: 27px;
+    background-color: ghostwhite;
+    border-radius: 20px;
+    border-color: red;
+ }
+ .textview{
+    width: 402px;
+    height: 73px;
+    background-color: black;
+    font-size: x-large;
+    color: white;
+    border-radius: 20px;
+    
+ }
+ .buttons{
+        margin-top: 50px;
+ }
+ .row1{
+     margin: 4px;
+
+ }
+
+ .row2{
+    margin: 4px;
+ }
+ .row3{
+    margin: 4px;
+ }
+ .row4{
+    margin: 4px;
+ }
+
+ #screen{
+    text-align: right;
+ }
